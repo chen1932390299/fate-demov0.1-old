@@ -1,0 +1,34 @@
+{
+  "conf": [
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    },
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    },
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    },
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    },
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    },
+    {
+      "dsl_path": "examples/test_hetero_lr_job_dsl.json",
+      "config_path": "examples/test_hetero_lr_job_conf.json",
+      "role_guest": "guest"
+    }
+  ]
+}
